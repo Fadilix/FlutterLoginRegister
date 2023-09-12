@@ -17,17 +17,10 @@
 - google_fonts
 
 # Screenshots:
-## Login page
-<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/8a362837-2eea-48a6-ae0e-0d2a298423d0" width="300">
-
-
-## Sign up page:
-<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/667ea720-667f-4659-82b9-6ecc37a113ec" width="300">
-
-
-## Reset password page:
-<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/eae2deb4-9320-4768-a2db-b6a932c66ab6" width="300">
-
+## pages :
+<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/8a362837-2eea-48a6-ae0e-0d2a298423d0" width="250">
+<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/667ea720-667f-4659-82b9-6ecc37a113ec" width="250">
+<img src="https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/eae2deb4-9320-4768-a2db-b6a932c66ab6" width="250">
 
 ## Reset link in email:
 
