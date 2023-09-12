@@ -1,10 +1,5 @@
 # Login and register UI with Firebase
 
-## dependencies
-- firebase_core
-- firebase_auth
-- cloud_firestore
-- google fonts
 
 ## Functionalities
 - Login: User can sign in with their registered email and password
@@ -14,6 +9,12 @@
 ## Technologies used:
 - Flutter
 - Firebase
+
+## dependencies
+- firebase_core
+- firebase_auth
+- cloud_firestore
+- google fonts
 
 # Screenshots
 ## Login page
