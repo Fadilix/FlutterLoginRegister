@@ -18,7 +18,8 @@
 
 # Screenshots:
 ## Login page
-![Screenshot_20230912-002507](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/8a362837-2eea-48a6-ae0e-0d2a298423d0)
+<img src="![Screenshot_20230912-002507](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/8a362837-2eea-48a6-ae0e-0d2a298423d0)" width="300" height="200">
+
 
 ## Sign up page:
 ![Screenshot_20230912-002533](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/667ea720-667f-4659-82b9-6ecc37a113ec)
