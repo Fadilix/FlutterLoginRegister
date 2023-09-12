@@ -1,4 +1,4 @@
-# Login and register UI with Firebase
+# Login and register UI with Flutter and Firebase
 
 
 ## Functionalities:
