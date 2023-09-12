@@ -26,4 +26,6 @@
 ![Screenshot_20230912-002607](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/eae2deb4-9320-4768-a2db-b6a932c66ab6)
 
 ## Reset link in email
-![Screenshot_20230912-002725](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/6a6bfccb-5698-456c-8b36-340b49a7a54f)
+
+![WhatsApp Image 2023-09-12 à 00 41 45](https://github.com/Fadilix/FlutterLoginRegister/assets/121851593/4a986a36-8393-465a-8760-b2bced1fadae)
+
