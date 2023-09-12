@@ -14,7 +14,7 @@
 - firebase_core
 - firebase_auth
 - cloud_firestore
-- google fonts
+- google_fonts
 
 # Screenshots:
 ## Login page
